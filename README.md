@@ -85,5 +85,7 @@ Este desafio consolidou os conhecimentos em diversas áreas da trilha DevOps, pr
 - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) GitHub Actions
 - ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) AWS S3
 
-## Aluna:
+## 
+
+
 ![Samira Cavalcanti](https://img.shields.io/badge/Aluna-Samira%20Cavalcanti-blue?style=for-the-badge)
