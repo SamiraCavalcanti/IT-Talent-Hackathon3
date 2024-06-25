@@ -29,7 +29,7 @@ e. Siga os passos do PDF em anexo.
 a. Para essa atividade, você deverá criar um workflow do GitHub Actions que irá realizar o build de uma aplicação React [moisesAlc/ReactBasic](https://github.com/moisesAlc/ReactBasic) e, em seguida, subir o conteúdo desse build (que estará na pasta /build) para um bucket S3 da AWS que seja acessível publicamente.
 
 
-## Entregáveis:
+## Entregáveis da primeira etapa do Hackathon:
 • Prints dos resultados do escaneamento do Sonarqube:
 
 ![alt text](1.png)  
@@ -45,6 +45,9 @@ a. Para essa atividade, você deverá criar um workflow do GitHub Actions que ir
 • Print do token gerado:
 
 ![alt text](print-token.png)
+
+
+# Entregáveis da segunda etapa do Hackathon:
 
 •O Print do ID do recurso do seu S3 no Console AWS:
 
